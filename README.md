@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChristianDuncanB
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning c++, html and css
+- 💞️ i want to take my skiils to a next level, learning advanced code.
+- 📫 you can reach me; ChristianduncanBanda@gmail.com
